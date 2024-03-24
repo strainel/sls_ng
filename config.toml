@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://icelab.tristangoetz.me"
+baseURL = "https://main--sls-ng.netlify.app"
 languageCode = "en-us"
 title = "Soirées Lyriques de Sanxay"
 theme = "icelab-hugo"
