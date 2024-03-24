@@ -1,0 +1,67 @@
+######################### history ############################
+history:
+  enable : true
+  image: "images/about/sanxay-scene.jpg"
+  subtitle : "À l'origine"
+  title : "Briser les codes et proposer <br>un opéra en plein air"
+  content : "C’est en 1999, dans le cadre du programme Défi-Jeunes, que Christophe Blugeon, actuel directeur artistique du festival, fait naître son projet d'art lyrique en plein coeur de la Vienne, dans un site unique historique : le théâtre gallo-romain de Sanxay. Séduit par le charme et l'acoustique exceptionnelle de ce théâtre, il imagine y programmer, chaque été, des opéras du grand répertoire.
+
+En 2000, après avoir rassemblé autour de lui de nombreux bénévoles et mécènes convaincus de l'intérêt du projet, Rigoletto est joué devant un public ravi. Cette première édition est un succès !
+
+Depuis, chaque année, c'est une fourmillière de près de 250 bénévoles qui s'active tout l'été pour proposer une nouvelle production et des artistes internationaux. Avec près de 160 000 entrées en 22 ans, le festival des Soirées Lyriques de Sanxay est devenu une scène incourtournable de l'art lyrique en France."
+
+################################ Team ###########################
+team:
+  enable : true
+  subtitle : "Le bureau est élu chaque année par le Conseil d’administration."
+  title : "Le bureau"
+  team_member:
+    - name  : Dominique Hummel
+      designation : Président
+      description : depuis 2023
+    
+    - name  : Mathieu Blugeon
+      designation : Président d'honneur
+      description : Président de 2000 à 2017
+
+    - name  : Hélène Boyer-Julien
+      designation : Vice-présidente
+
+    - name  : René Gibault
+      designation : Vice-président
+
+    - name  : Gilles Grasset  
+      designation : Vice-président
+
+    - name  : Armand Devanneaux
+      designation : Trésorier
+
+    - name  : Nadège Fallourd
+      designation : Trésorier adjointe
+
+    - name  : --
+      designation : Secrétaire
+
+    - name  : Laëtitia Chaignault
+      designation : Secrétaire adjointe
+
+
+
+    # team member loop
+    #- name : "Mehedi Titash"
+    #  image : "images/team/team-member-01.jpg"
+    #  image_bg : "images/team/team-member-01-bg.jpg"
+    #  designation : "CEO & Chief"
+
+
+############################### philosophy ###########################
+philosophy:
+  enable : false
+  subtitle : "Philosophy"
+  title : "We design for human, So user first"
+  image : "images/philosophy-image.jpg"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+          
+  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
+
