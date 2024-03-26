@@ -1,0 +1,130 @@
+######################### history ############################
+history:
+  enable : true
+  image: "images/about/sanxay-scene.jpg"
+  subtitle : "À l'origine"
+  title : "Briser les codes et proposer <br>un opéra en plein air"
+  content : "C’est en 1999, dans le cadre du programme Défi-Jeunes, que Christophe Blugeon, actuel directeur artistique du festival, fait naître son projet d'art lyrique en plein coeur de la Vienne, dans un site unique historique : le théâtre gallo-romain de Sanxay. Séduit par le charme et l'acoustique exceptionnelle de ce théâtre, il imagine y programmer, chaque été, des opéras du grand répertoire.
+
+En 2000, après avoir rassemblé autour de lui de nombreux bénévoles et mécènes convaincus de l'intérêt du projet, Rigoletto est joué devant un public ravi. Cette première édition est un succès !
+
+Depuis, chaque année, c'est une fourmillière de près de 250 bénévoles qui s'active tout l'été pour proposer une nouvelle production et des artistes internationaux. Avec près de 160 000 entrées en 22 ans, le festival des Soirées Lyriques de Sanxay est devenu une scène incourtournable de l'art lyrique en France."
+
+################################ Team ###########################
+team:
+  enable : true
+  subtitle : "Le bureau est élu chaque année par le Conseil d’administration."
+  title : "Le bureau"
+  team_member:
+    - name  : Dominique Hummel
+      designation : Président
+      description : depuis 2023
+    
+    - name  : Mathieu Blugeon
+      designation : Président d'honneur
+      description : Président de 2000 à 2017
+
+    - name  : Hélène Boyer-Julien
+      designation : Vice-présidente
+
+    - name  : René Gibault
+      designation : Vice-président
+
+    - name  : Gilles Grasset  
+      designation : Vice-président
+
+    - name  : Armand Devanneaux
+      designation : Trésorier
+
+    - name  : --
+      designation : Trésorier adjointe
+
+    - name  : Laëtitia Chaignault
+      designation : Secrétaire
+
+    - name  : --
+      designation : Secrétaire adjointe
+
+    # team member loop
+    #- name : "Mehedi Titash"
+    #  image : "images/team/team-member-01.jpg"
+    #  image_bg : "images/team/team-member-01-bg.jpg"
+    #  designation : "CEO & Chief"
+
+############################### association ###########################
+philosophy:
+  enable : true
+  subtitle : "L'association"
+  title : "Votre voix compte !"
+  image : "images/portfolios/2021_carmen/2021_carmen_ag3.png"
+  image_legend : "Francis Mayet"
+  content : "L'association a été créée en 1999 pour organiser chaque année 
+  une oeuvre lyrique dans le théâtre gallo-romain de Sanxay.
+
+
+  **Vous souhaitez apporter votre aide ? Rejoignez-nous !**
+
+
+  L'association recherche et accueille chaque année 
+  de nouveaux membres bénévoles. En adhérant à l'association, vous montrez 
+  votre attachement au festival, à l'art lyrique et au patrimoine.
+  Votre aide sera précieuse pour préparer la prochaine édition et
+  participer à la vie de l'association.
+
+
+  **Comment adhérer ? C'est très simple.**
+
+  
+  [Imprimez et complétez le bulletin d'adhésion](/documents/adhesion2024.pdf) 
+  sans oublier la (très légère) cotisation annuelle de 7 euros.
+
+
+  Les adhérents de l'association sont réunis chaque année en Assemblée Générale 
+  pour faire le bilan de la dernière production, valider la prochaine production 
+  et élire les administrateurs formant le Conseil d'administration.
+
+
+  Les présidents de l'association sont : Mathieu Blugeon de 2000 à 2017, 
+  Philippe Bélaval de 2018 à 2022 et Dominique Hummel depuis 2023."
+
+############################### comité soutien ###########################
+soutien:
+  enable : true
+  subtitle : "Le comité de soutien"
+  title : "Votre voix compte !"
+  image : "images/portfolios/2019_aida/2019_aida_soutien.png"
+  image_legend : "Francis Mayet"
+  content : "Vous aimez l'opéra sous les étoiles ?
+  Vous voulez défendre la culture de qualité en milieu rural ?
+  <br>Adhérez au Comité de soutien aux Soirées Lyriques !
+  <br>En y adhérant et en faisant un don, vous contribuez directement à l'équilibre financier de notre manifestation.
+  <br><br>En 20 ans, avec 153 000 spectateurs, le festival de Sanxay est devenu la 3e manifestation d'art lyrique en plein air en France. 
+  Aidez-nous à poursuivre cette belle aventure.
+  <br><br>
+  Demandez à recevoir par mail <a href='mailto:production@operasanxay.fr'>
+  le coupon d'adhésion et le bon de commande des DVD</a>
+  <br>ou téléchargez, imprimez et complétez <a href='/documents/comite_soutien_2023.pdf'>le bon d'adhésion et de commande des DVD</a>
+  <br><br>Adhérer au Comité de soutien (pour 5€) et faire un don vous permettent de bénéficier de quelques avantages !"
+
+############################### contrat république ###########################
+cer:
+  enable : false
+  subtitle : "Contrat d'engagement républicain"
+  title : "Votre soutien est essentiel !"
+  image : "images/philosophy-image.jpg"
+  content : "Le contrat d’engagement républicain, entré en vigueur au 2 janvier 2022, 
+  est un document par lequel les Soirées Lyriques de Sanxay s’engagent à respecter 
+  les principes de la République.
+  
+  Les engagements sont les suivants :
+  <ol>
+  <li>Respect des lois de la République</li>
+  <li>Liberté de conscience</li>
+  <li>Liberté des Membres de l’association</li>
+  <li>Égalité et non-discrimination</li>
+  <li>Fraternité et prévention de la violence</li>
+  <li>Respect de la dignité de la personne humaine</li>
+  <li>Respect des symboles de la République</li>
+  </ol>
+
+  Ces engagements sont affichés dans les locaux de l'association."

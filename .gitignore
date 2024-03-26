@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+*.icloud
+# Hugo artifacts
+public/
+# Hugo intermediate files
+resources/
+# R files
+.Rhistory
+# RStudio files
+.Rproj.user

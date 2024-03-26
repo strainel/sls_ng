@@ -1,0 +1,92 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<!-- Coming Section Start -->
+{{ if .Site.Data.practicals.pricing.enable }}
+{{ with .Site.Data.practicals.pricing }}
+<section class="team section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <div class="section-title">
+          <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+          <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      {{ range .pricing_item }}
+      <div class="col-lg-4 col-md-6">
+        <!-- Team Member -->
+        <div class="team-member">
+          <!-- Member Image -->
+          <div class="team-member-image" style="background-image: url('{{ .image_bg | absURL}}');">
+          {{ with .image }}
+            <img src="{{ . | absURL}}" alt="team-member-image">
+          {{ end }}
+          </div>
+          <!-- Member Content -->
+          <div class="team-member-content text-center">
+            <h6 class="sm">{{ .name | markdownify}}</h6>
+            <span>{{ .price | markdownify }}</span>
+            <h7>{{ .content | markdownify }}</h7><br><br> 
+            {{ range .details_item }}
+              <h7>{{ . | markdownify }}</h7><br>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- Pricing Section End -->
+
+<!-- Coming Section Start -->
+{{ if .Site.Data.practicals.coming.enable }}
+{{ with .Site.Data.practicals.coming }}
+<section class="history section">
+  <div class="shape-big">
+    <img src="{{`images/shape-big.png` | absURL}}" class="img-fluid" alt="big-shape">
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 align-self-center">
+        <!-- History Content -->
+        <div class="history-content">
+          <!-- section title -->
+          <div class="section-title">
+            <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+            <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h2>
+          </div>
+          <div class="content">
+            {{ .description | markdownify}}
+            {{ range .coming_item }}
+            <div class="team-member-content">
+              <h6 class="sm">{{ .name | markdownify}}</h6>
+              <h7>{{ .content | markdownify }}</h7>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-5 ml-auto">
+        <!-- History Image -->
+        <div class="history-image">
+          <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-0.029236078262329105%2C46.492306297547856%2C-0.015181303024291994%2C46.49733612730822&amp;layer=mapnik&amp;marker=46.49482496355339%2C-0.022208690643310547" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- Coming Section End -->
+
+
+
+{{ end }}

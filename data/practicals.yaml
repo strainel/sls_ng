@@ -1,0 +1,72 @@
+######################### coming ############################
+coming:
+  enable: true
+  title: Venir à Sanxay est très simple !
+  subtitle: Les moyens de transport possibles
+  description: Plusieurs solutions sont envisageables pour venir à Sanxay 
+      et profiter des Soirées Lyriques de Sanxay.
+  coming_item:
+    - name : En voiture
+      content : Par l'autoroute A10 ! Si vous venez depuis Paris, ce sera la sortie 30.
+          Si vous venez depuis Bordeaux, ce sera la sortie 31.
+    - name : Par covoiturage
+      content : Jetez un oeil sur les sites [blablacar](https://blablacar.fr) ou 
+          [carpooling](https://www.europe-carpooling.com). Il y a régulièrement des offres pour
+          se rendre à Sanxay.
+    - name : Par train
+      content : Plusieurs gares aux environs de Sanxay. La gare de **Poitiers** est à 30 minutes 
+          de Sanxay, celle de **Saint-Maixent-l'école** à 25 minutes, celle de **Lusignan** à 15 minutes.
+    - name : Par navette-bus depuis Poitiers
+      content : Une **navette spéciale au départ de la gare de Poitiers** est proposée 
+          chaque soir de spectacle. Le départ se fait à la gare routière à 19h15. 
+          **Réservation obligatoire**. Renseignements au 05 49 44 95 38
+  mapTitle    : La carte
+  mapSubtitle : >
+    Si vous êtes de passage dans la Vienne, vous pouvez venir nous rencontrer dans le local de l'association à SANXAY
+
+
+######################### pricing ############################
+pricing:
+  enable : true
+  title: Les tarifs des places
+  subtitle: À chacun sa place !
+  #image: images/about/pricing.jpg
+  #description: "**Les préventes pour la production de l'édition 2023 seront possibles pour Noël, jusqu'au 31 décembre !**"
+  description: "Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
+                les prix sont indiqués ci-dessous."
+  details: "PN = Place numérotée. PL = Placement libre. <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
+  link : "https://my.weezevent.com/la-boheme"
+  pricing_item:
+    # pricing table loop
+    - name : "Orchestre centrale"
+      content : "Idéal pour être proche et face à la scène,<br> à partir de 98 €"
+  #    link : ""
+      details_item :
+        - "Plein tarif : 114 € pn / 98 € pl"
+        - "Tarif réduit : 103 € pn / 89 € pl"
+        - "Tarif jeune : 57 € pn / 49 € pl"
+        
+    - name : "Gradin"
+      content : "Admirable pour voir la scène avec un peu de hauteur,<br> à partir de 79 €"
+  #    link : ""
+      details_item:
+        - "Plein tarif : 94 € pn / 79 € pl"
+        - "Tarif réduit : 85 € pn / 72 € pl"
+        - "Tarif jeune : 47 € pn / 39,50 € pl"
+
+    - name : "Orchestre latérale"
+      content : "Parfait pour être proche de la scène,<br> à partir de 46 €"
+  #    link : ""
+      details_item:
+        - "Plein tarif : 76 €, 62 € pn / 46 € pl"
+        - "Tarif réduit : 69 €, 56 € pn / 42 € pl"
+        - "Tarif jeune : 38 €, 31 € pn / 23 € pl"
+
+        
+    - name : "Promenoir gazon"
+      content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle de la scène, tarif unique, (**places non accessibles aux personnes à mobilité réduite**)"
+  #    link : ""
+  #    services:
+      details_item:
+        - "23 €"
+

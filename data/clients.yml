@@ -1,0 +1,28 @@
+############################ VIP ################################
+vip:
+  enable : true
+  subtitle : "Les institutionnels"
+  title : "Merci à eux"
+  clients:
+    - logo : images/partners/cmn.png
+      link : https://www.monuments-nationaux.fr
+    - logo : images/partners/region-nv-aquitaine.png
+      link : https://www.nouvelle-aquitaine.fr
+    - logo : images/partners/departement-vienne.png
+      link : https://www.lavienne86.fr
+    - logo : images/partners/prefet_region.jpg
+      link : https://www.culture.gouv.fr/Regions/DRAC-Nouvelle-Aquitaine
+    - logo : images/partners/caisse_depots.png
+      link : https://www.caissedesdepots.fr/modele-unique/nos-missions
+
+
+    ############################ AUTRES ################################
+autres:
+  enable : true
+  subtitle : "Les entreprises"
+  title : "Merci à elles"
+  clients:
+    - logo : images/partners/orange.png
+      link : https://www.orange.com/fr/accueil
+    - logo : images/partners/credit-agricole.png
+      link : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html

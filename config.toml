@@ -1,0 +1,82 @@
+######################## default configuration ####################
+baseURL = "https://main--sls-ng.netlify.app"
+languageCode = "en-us"
+title = "Soirées Lyriques de Sanxay"
+theme = "icelab-hugo"
+summaryLength = "10"
+
+
+############################## Output ###############################
+[outputs]
+home = ["HTML", "RSS"]
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+############################## Output ###############################
+# JS Plugins
+[[params.plugins.js]]
+URL = "plugins/plugins.js"
+
+
+############################## navigation ###########################
+
+
+[[menu.main]]
+name = "Productions"
+URL = "works"
+weight = 1
+
+[[menu.main]]
+name = "Info pratiques"
+URL = "practicals"
+weight = 2
+
+[[menu.main]]
+name = "Partenaires"
+URL = "clients"
+weight = 4
+
+[[menu.main]]
+name = "Nous connaitre"
+URL = "about"
+weight = 6
+
+
+#################### default parameters ##############################
+[params]
+logo = "images/logo_sls.png"
+home = "Accueil"
+# Meta data
+description = "Site de l'association des soirées lyriques de Sanxay"
+author = "Association des Soirées Lyriques de Sanxay"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# footer content
+footer_content = "Venez vivre l'été prochain, à Sanxay, une expérience inédite et inoubliable."
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+############################# social site ########################
+[[params.social]]
+name = "facebook"
+icon = "fa-facebook" # fontawesome icon pack v4.7
+link = "#"
+
+[[params.social]]
+name = "twitter"
+icon = "fa-twitter" # fontawesome icon pack v4.7
+link = "#"
+
+[[params.social]]
+name = "instagram"
+icon = "fa-instagram" # fontawesome icon pack v4.7
+link = "#"
