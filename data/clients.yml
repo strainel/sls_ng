@@ -1,8 +1,8 @@
 ############################ VIP ################################
-vip:
+partners_vip:
   enable : true
-  subtitle : "Les institutionnels"
-  title : "Merci à eux"
+  subtitle : "Partenaires publics et institutionnels"
+  title : "Merci !!"
   clients:
     - logo : images/partners/cmn.png
       link : https://www.monuments-nationaux.fr
@@ -10,19 +10,174 @@ vip:
       link : https://www.nouvelle-aquitaine.fr
     - logo : images/partners/departement-vienne.png
       link : https://www.lavienne86.fr
+    - logo : images/partners/festival-deux-sevres.jpg
+      link : https://www.deux-sevres.fr/destination-deux-sevres/sortir/les-festivals-en-deux-sevres
     - logo : images/partners/prefet_region.jpg
       link : https://www.culture.gouv.fr/Regions/DRAC-Nouvelle-Aquitaine
+    - logo : images/partners/grandpoitiers.svg
+      link : https://www.grandpoitiers.fr
     - logo : images/partners/caisse_depots.png
       link : https://www.caissedesdepots.fr/modele-unique/nos-missions
+    - logo : images/partners/chu_poitiers.png
+      link : https://www.chu-poitiers.fr
+    - logo : images/partners/centre_hospitalier_niort.png
+      link : https://www.ch-niort.fr
+    - logo : images/partners/boivre.png
+      link : https://www.boivrelavallee.eu
+    - logo : images/partners/melle.png
+      link : https://melle.fr
+    - logo : images/partners/vivonne.jpg
+      link : https://www.vivonne.fr
+    - logo : images/partners/lusignan.png
+      link : 
+    - logo : images/partners/rouille.png
+      link : https://www.rouille.fr
+    - logo : images/partners/menigoute.jpg
+      link : https://ville-menigoute.fr
+    - logo : images/partners/poitiers.png
+      link : https://www.poitiers.fr
 
-
-    ############################ AUTRES ################################
-autres:
+############################ AUTRES ################################
+partners_amis:
   enable : true
-  subtitle : "Les entreprises"
-  title : "Merci à elles"
+  subtitle : "Grands mécènes et amis"
+  title : "Merci !!"
   clients:
-    - logo : images/partners/orange.png
-      link : https://www.orange.com/fr/accueil
+    - logo : images/partners/mhv.png
+      link : https://www.mhv.fr
+    - logo : images/partners/futuroscope.svg
+      link : https://www.futuroscope.com/fr/
     - logo : images/partners/credit-agricole.png
       link : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html
+    - logo : images/partners/orange.png
+      link : https://www.orange.com/fr/accueil
+    - logo : images/partners/mutuelle_poitiers.png
+      link : https://agence.assurance-mutuelle-poitiers.fr/
+    - logo : images/partners/servistores.png
+      link : https://www.servistores.com
+    - logo : images/partners/intermarche.png
+      link : https://www.intermarche.com
+    - logo : images/partners/hotel_alteora.jpg
+      link : https://hotel-alteora-site-du-futuroscope.com
+    - logo : images/partners/territoria_mutuelle.png
+      link : https://www.territoria-mutuelle.fr 
+    - logo : images/partners/axa.png
+      link : 
+    - logo : images/partners/drouineau.jpg
+      link : https://www.drouineau1927.fr
+    - logo : images/partners/fabrix.png
+      link : https://fabrix.fr
+    - logo : images/partners/groupama.jpg
+      link :
+    - logo : images/partners/hertz.png
+      link : 
+
+############################ AUTRES ################################
+partners_off:
+  enable : true
+  subtitle : "Partenaires officiels"
+  title : "Merci !!"
+  clients:
+    - logo : images/partners/nuances_pianos.jpg
+      link : http://nuances-pianos.fr
+    - logo : images/partners/lubicom.png
+      link : http://www.lubicom.fr/
+    - logo : images/partners/saveurs_creations.png
+      link : http://www.saveursetcreations.fr
+    - logo : images/partners/citroen.png
+      link : https://www.citroen-civray.fr
+    - logo : images/partners/securit_dog_man.png
+      likn : https://www.securitdogman.com
+    - logo : images/partners/loc_4_event.png
+      link : http://www.loc4event.fr
+    - logo : images/partners/toilettes_co.gif
+      link : https://www.toilettesandco.com 
+    - logo : images/partners/melon_haut_poitou.png
+      link : https://melon-hautpoitou.fr
+    - logo : images/partners/goulibeur.png
+      link : https://www.goulibeur.com
+    - logo : images/partners/aurik.png
+      link : https://www.aurik.fr
+    - logo : images/partners/ecodesnations.png
+      link : https://www.espacedesnations.fr
+    - logo : images/partners/maison_clochard.png
+      link : 
+    - logo : images/partners/sfere.png
+      link : http://www.sferebureautique.com
+    - logo : images/partners/max_musique.png
+      link : 
+    - logo : images/partners/jubert.jpg
+      link : http://www.jubert.fr
+    - logo : images/partners/clodejac.png
+      link : https://www.clodejac.com
+    - logo : images/partners/toyota_touzalin.jpg
+      link : https://toyota-occasions-poitiers.espacevo.fr
+
+############################ AUTRES ################################
+partners_media:
+  enable : true
+  subtitle : "Partenaires médias"
+  title : "Merci !!"
+  clients:
+#    - logo : images/partners/bfm.png
+#      link : https://www.bfm.fr
+#    - logo : images/partners/sergies.png
+#      link : https://www.sergies.fr
+#    - logo : images/partners/maif_education.png
+#      link : http://www.fondsmaifpourleducation.fr
+#    - logo : images/partners/keldoc.png
+#      link : 
+#    - logo : images/partners/mnh.png
+#      link : https://www.mnh.fr/home.html
+#    - logo : images/partners/emil_frey.png
+#      link : https://www.emilfrey.ch/fr/notre-entreprise/portrait-de-lentreprise
+#  - logo : images/partners/techstar86.png
+#    link : https://www.mercedes-benz-poitiers.fr
+#  - logo : images/partners/seat.png
+#    link : 
+#  - logo : images/partners/blastrac.png
+#    link : https://blastrac.fr
+#  - logo : images/partners/vw.png
+#    link : 
+#    - logo : images/partners/loirevision.jpg
+#      link : https://www.loirevision.fr
+#    - logo : images/partners/ampelidae.png
+#      link : http://www.ampelidae.com/fr/
+#    - logo : images/partners/vienne_documentique.png
+#      link : http://www.vienne-documentique.com
+#  - logo : images/partners/landreau.png
+#    link : http://www.landreau.fr
+#    - logo : images/partners/brings_vrignaud.png
+#      link : https://www.brings.fr/conseiller/nathalie.vrignaud,177
+#  - logo : images/partners/avocat_ten.svg
+#    link : https://www.tenfrance.com
+#    - logo : images/partners/petit_forestier.svg
+#      link : https://www.petitforestier.com/fr-fr
+#    - logo : images/partners/contival.png
+#      link : https://www.contival.fr/construction
+    - logo : images/partners/france3-na.png
+      link : https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/
+#  - logo : images/partners/lesocle_formations.png
+#    link : https://lesocle-formations.fr
+    - logo : images/partners/centre_presse.png
+      link : https://www.centre-presse.fr
+    - logo : images/partners/francebleu_poitou.jpg
+      link : https://www.radiofrance.fr/professionnels/regie-publicitaire/france-bleu?tag=poitou
+#  - logo : images/partners/bus_demelier.jpg
+#    link : https://www.autocars-demellier-tourisme.fr
+#  - logo : images/partners/picoty.png
+#    link : 
+#  - logo : images/partners/2k16_prod.png
+#    link : https://www.2k16prod.fr
+#  - logo : images/partners/immo_g8.png
+#    link : 
+#  - logo : images/partners/les_embruns.png
+#    link : https://www.facebook.com/lesembrunsecaillerie/
+#  - logo : images/partners/d4b.png
+#    link : http://www.radiod4b.asso.fr/#/
+#  - logo : images/partners/nouvelle_republique.png
+#    link : https://www.lanouvellerepublique.fr
+#  - logo : images/partners/benassay.png
+#    link : 
+#  - logo : images/partners/beruges.png
+#    link : http://www.beruges.fr

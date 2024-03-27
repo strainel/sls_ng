@@ -108,7 +108,7 @@
 <!-- Philosophy Section End -->
 
 
-<!-- Philosophy Section Start -->
+<!-- Soutien Section Start -->
 {{ if .Site.Data.about.soutien.enable }}
 {{ with .Site.Data.about.soutien }}
 <section class="philosophy section">
@@ -121,7 +121,14 @@
             <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
             <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify}}</h2>
           </div>
-          <div class="content">{{ .content | markdownify }}</div>
+          <div class="content">
+          {{ .content | markdownify }}
+
+          {{ range .soutien_item }}
+          <h6 class="sm">{{  .title }}</h6>
+          <p>{{  .content }}</p>
+          {{ end }}
+        </div>
         </div>
       </div>
       <div class="col-lg-6">

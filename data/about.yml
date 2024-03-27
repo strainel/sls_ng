@@ -94,17 +94,39 @@ soutien:
   title : "Votre voix compte !"
   image : "images/portfolios/2019_aida/2019_aida_soutien.png"
   image_legend : "Francis Mayet"
-  content : "Vous aimez l'opéra sous les étoiles ?
-  Vous voulez défendre la culture de qualité en milieu rural ?
-  <br>Adhérez au Comité de soutien aux Soirées Lyriques !
-  <br>En y adhérant et en faisant un don, vous contribuez directement à l'équilibre financier de notre manifestation.
-  <br><br>En 20 ans, avec 153 000 spectateurs, le festival de Sanxay est devenu la 3e manifestation d'art lyrique en plein air en France. 
-  Aidez-nous à poursuivre cette belle aventure.
-  <br><br>
-  Demandez à recevoir par mail <a href='mailto:production@operasanxay.fr'>
-  le coupon d'adhésion et le bon de commande des DVD</a>
-  <br>ou téléchargez, imprimez et complétez <a href='/documents/comite_soutien_2023.pdf'>le bon d'adhésion et de commande des DVD</a>
-  <br><br>Adhérer au Comité de soutien (pour 5€) et faire un don vous permettent de bénéficier de quelques avantages !"
+  content : "Vous aimez l'opéra sous les étoiles ? Vous voulez défendre la culture 
+  de qualité en milieu rural ? Adhérez au Comité de soutien !
+  
+
+  En adhérant (pour 5€) et en faisant un don (à votre convenance), 
+  vous contribuez directement à l'équilibre financier 
+  du festival, qui, en 20 ans, est devenu la 3e manifestation d'art lyrique en plein air 
+  en France grâce à ses 153 000 spectateurs.
+
+
+  Pour soutenir, c'est très simple. Téléchargez, imprimez et complétez 
+  <a href='/documents/comite_soutien_2023.pdf'>le bon d'adhésion</a>.
+  Si difficulté, laissez-nous <a href='mailto:production@operasanxay.fr'>
+  un petit message par mail</a>.
+
+
+  Profitez pour commander un DVD de nos précédentes productions pour voir ou revoir
+  nos opéras ou pour faire un cadeau."
+
+  soutien_item:
+    - title : Défiscalisation
+      content:  "Chaque don ouvre droit à une réduction d'impôt de 66% du don effectué, 
+        dans la limite de 20 % du revenu imposable.
+        Par exemple : 35 euros (5 euros d'adhésion et 30 euros de don) correspond à 
+        20 euros de déduction fiscale. Votre don coûte finalement 15 € (35 - 20)."
+    - title : Revoir les précédentes productions
+      content: "Chaque spectacle est enregistré et uniquement disponible par DVD (15 € / DVD)
+        aux adhérents du Comité de soutien.
+        En cas de don supérieur à 100 €, le DVD de votre choix vous est offert."
+    - title : Bénéficier d'un tarif réduit
+      content: "Tout don supérieur à 35 euros vous permet de bénéficier d'un tarif réduit 
+      sur une place achetée."
+
 
 ############################### contrat république ###########################
 cer:
