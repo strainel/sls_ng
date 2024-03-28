@@ -42,7 +42,7 @@ service:
 portfolio:
   enable : true
   subtitle : "Les productions"
-  title : "Découvrir toutes les productions"
+  title : "Découvrir les <br>productions"
   button : "Les autres productions"
   # portfolio item comes from `content/work/` folder
 
