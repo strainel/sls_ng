@@ -1,8 +1,8 @@
 ############################ VIP ################################
 partners_vip:
   enable : true
-  subtitle : "Partenaires publics et institutionnels"
-  title : "Merci !!"
+  subtitle : "Merci"
+  title : "Partenaires publics et<br> institutionnels"
   clients:
     - logo : images/partners/cmn.png
       link : https://www.monuments-nationaux.fr
@@ -40,8 +40,8 @@ partners_vip:
 ############################ AUTRES ################################
 partners_amis:
   enable : true
-  subtitle : "Grands mécènes et amis"
-  title : "Merci !!"
+  subtitle : "Merci"
+  title : "Grands mécènes et amis"
   clients:
     - logo : images/partners/mhv.png
       link : https://www.mhv.fr
@@ -75,8 +75,8 @@ partners_amis:
 ############################ AUTRES ################################
 partners_off:
   enable : true
-  subtitle : "Partenaires officiels"
-  title : "Merci !!"
+  subtitle : "Merci"
+  title : "Partenaires officiels"
   clients:
     - logo : images/partners/nuances_pianos.jpg
       link : http://nuances-pianos.fr
@@ -116,8 +116,8 @@ partners_off:
 ############################ AUTRES ################################
 partners_media:
   enable : true
-  subtitle : "Partenaires médias"
-  title : "Merci !!"
+  subtitle : "Merci"
+  title : "Partenaires médias"
   clients:
 #    - logo : images/partners/bfm.png
 #      link : https://www.bfm.fr
