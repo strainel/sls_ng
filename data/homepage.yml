@@ -74,10 +74,13 @@ testimonial:
 
 ################# call to action ##################################3
 call_to_action:
-  enable : false
-  title : "Interseted In Teaming Up?"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
+  enable : true
+  title : "Une question ?"
+  content : "Vous souhaitez acheter une place ? 
+    Adhérer au comité de soutien ? 
+    Nous faire part de votre expérience ? 
+    Nous sommes à votre écoute."
   button:
     enable : true
-    label : "Let's Chat"
+    label : "Contactez-nous !"
     link : "contact"

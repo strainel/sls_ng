@@ -119,6 +119,12 @@ partners_media:
   subtitle : "Merci"
   title : "Partenaires médias"
   clients:
+    - logo : images/partners/france3-na.png
+      link : https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/
+    - logo : images/partners/centre_presse.png
+      link : https://www.centre-presse.fr
+    - logo : images/partners/francebleu_poitou.jpg
+      link : https://www.radiofrance.fr/professionnels/regie-publicitaire/france-bleu?tag=poitou
 #    - logo : images/partners/bfm.png
 #      link : https://www.bfm.fr
 #    - logo : images/partners/sergies.png
@@ -131,38 +137,32 @@ partners_media:
 #      link : https://www.mnh.fr/home.html
 #    - logo : images/partners/emil_frey.png
 #      link : https://www.emilfrey.ch/fr/notre-entreprise/portrait-de-lentreprise
-#  - logo : images/partners/techstar86.png
-#    link : https://www.mercedes-benz-poitiers.fr
-#  - logo : images/partners/seat.png
-#    link : 
-#  - logo : images/partners/blastrac.png
-#    link : https://blastrac.fr
-#  - logo : images/partners/vw.png
-#    link : 
+#    - logo : images/partners/techstar86.png
+#      link : https://www.mercedes-benz-poitiers.fr
+#    - logo : images/partners/seat.png
+#      link : 
+#    - logo : images/partners/blastrac.png
+#      link : https://blastrac.fr
+#    - logo : images/partners/vw.png
+#      link : 
 #    - logo : images/partners/loirevision.jpg
 #      link : https://www.loirevision.fr
 #    - logo : images/partners/ampelidae.png
 #      link : http://www.ampelidae.com/fr/
 #    - logo : images/partners/vienne_documentique.png
 #      link : http://www.vienne-documentique.com
-#  - logo : images/partners/landreau.png
-#    link : http://www.landreau.fr
+#    - logo : images/partners/landreau.png
+#      link : http://www.landreau.fr
 #    - logo : images/partners/brings_vrignaud.png
 #      link : https://www.brings.fr/conseiller/nathalie.vrignaud,177
-#  - logo : images/partners/avocat_ten.svg
-#    link : https://www.tenfrance.com
+#    - logo : images/partners/avocat_ten.svg
+#      link : https://www.tenfrance.com
 #    - logo : images/partners/petit_forestier.svg
 #      link : https://www.petitforestier.com/fr-fr
 #    - logo : images/partners/contival.png
 #      link : https://www.contival.fr/construction
-    - logo : images/partners/france3-na.png
-      link : https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/
 #  - logo : images/partners/lesocle_formations.png
 #    link : https://lesocle-formations.fr
-    - logo : images/partners/centre_presse.png
-      link : https://www.centre-presse.fr
-    - logo : images/partners/francebleu_poitou.jpg
-      link : https://www.radiofrance.fr/professionnels/regie-publicitaire/france-bleu?tag=poitou
 #  - logo : images/partners/bus_demelier.jpg
 #    link : https://www.autocars-demellier-tourisme.fr
 #  - logo : images/partners/picoty.png

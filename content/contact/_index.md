@@ -1,15 +1,22 @@
 ---
-title: "Contact Us"
+title: "Contactez-nous !"
 date: 2019-08-29T15:38:38+06:00
 draft: false
 ---
 
-#### Contact Info
+### Une question ? 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liqua fina water.
+Sur le festival ?
+Sur l'achat des places ?
+Sur l'association ? Sur les bénévoles ?
+Nous sommes à votre écoute.
 
-* Tel. : +880 1672 506 744
-* Email : themefisher@gmail.com
-* Skype : Mehedi Sharif Titas
-* Whatsapp : +880 1672 506 744
-* Address : Shyamoli, Dhaka.
+
+
+Plusieurs possibilités 
+
+Par téléphone : 05 49 44 95 38
+
+Par email : production@operasanxay.fr ou billetterie@operasanxay.fr
+
+Adresse : 4, route de Poitiers, 86600 Sanxay

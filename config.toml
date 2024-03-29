@@ -52,14 +52,19 @@ home = "Accueil"
 # Meta data
 description = "Site de l'association des soirées lyriques de Sanxay"
 author = "Association des Soirées Lyriques de Sanxay"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+
 # footer content
-footer_content = "Venez vivre l'été prochain, à Sanxay, une expérience inédite et inoubliable."
+footer_content = "Venez vivre chaqe été, à Sanxay, une expérience inédite et inoubliable, en plein coeur de la Vienne où se mêle musique, voix et patrimoine."
+
+# contact form action
+[params.form]
+enable = false
+contact_form_action = "#" # contact form works with https://formspree.io
+
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -69,14 +74,19 @@ map_marker = "images/marker.png"
 [[params.social]]
 name = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7
-link = "#"
+link = "https://fr-fr.facebook.com/operasanxay"
 
 [[params.social]]
 name = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7
-link = "#"
+link = "https://twitter.com/operasanxay"
 
 [[params.social]]
 name = "instagram"
 icon = "fa-instagram" # fontawesome icon pack v4.7
-link = "#"
+link = "https://www.instagram.com/soireeslyriquessanxay/"
+
+[[params.social]]
+name = "youtube"
+icon = "fa-youtube" # fontawesome icon pack v4.7
+link = "https://www.youtube.com/channel/UCldxuw4RRkmpXyUkw81F_Gw?view_as=subscriber"
