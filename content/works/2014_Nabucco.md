@@ -1,12 +1,11 @@
 ---
 title: "2014 : Nabucco"
-type: portfolio
 date: 2014-07-12T16:59:54+06:00
-caption: Giuseppe Verdi
+author: Giuseppe Verdi
 image: images/portfolios/2014_nabucco/2014_nabucco_02.jpg
 category: ["opera","verdi"]
 wikiLink: https://fr.wikipedia.org/wiki/Nabucco
-submitDate: 9, 11 et 13 août 2015 à 21h30
+eventdate: 9, 11 et 13 août 2015 à 21h30
 source: Livret de Temistocle Solera d’après le drame Nabuchodonosor d’Auguste Anicet-Bourgeois
 created: Création le 9 mars 1842 à la Scala de Milan
 ---
@@ -21,17 +20,17 @@ Grâce à son "tube", le fameux "Va pensiero", chœur des Hébreux réduits en e
 
 &nbsp;
 
-{{< figure src="/images/portfolio/2014_nabucco/2014_nabucco_08.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2014_nabucco/2014_nabucco_13.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2014_nabucco/2014_nabucco_15.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2014_nabucco/2014_nabucco_24.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2014_nabucco/2014_nabucco_08.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2014_nabucco/2014_nabucco_13.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2014_nabucco/2014_nabucco_15.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2014_nabucco/2014_nabucco_24.jpg" width="100%" >}}
 
 
 ### Equipe artistique
 
 - Direction musicale : [Eric Hull](/artists/eric_hull)
 - Mise en scène : [Agostino Taboga](/artists/agostino_taboga/)
-- Scénographie / Création lumières : Andrea Tocchio / Maria Rossi Franchi	
+- Scénographie / Création lumières : [Andrea Tocchio](/artists/andrea_tocchio/) / Maria Rossi Franchi	
 - Création costumes : Shizuko Omachi / Stefano Nicolao	
 - Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
 - Chef de chant : Céline Frétard

@@ -1,12 +1,11 @@
 ---
 title: "2012 : La Traviata"
-type: portfolio
 date: 2012-08-01T16:59:54+06:00
-caption: Giuseppe Verdi
+author: Giuseppe Verdi
 image: images/portfolios/2012_traviata/2012_traviata_01.jpg
 category: ["opera","verdi"]
 liveLink: 
-submitDate: 9, 11, 14 et 16 oût 2012 à 21h30
+eventdate: 9, 11, 14 et 16 oût 2012 à 21h30
 source: Livret de Francesco Maria Piave d’après La Dame aux camélias d’Alexandre Dumas fils
 ---
 
@@ -27,10 +26,10 @@ Alfredo, fou de jalousie, humilie publiquement Violetta avant de la quitter pour
 
 &nbsp;
 
-{{< figure src="/images/portfolio/2012_traviata/2012_traviata_04.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2012_traviata/2012_traviata_07.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2012_traviata/2012_traviata_13.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2012_traviata/2012_traviata_14.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2012_traviata/2012_traviata_04.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2012_traviata/2012_traviata_07.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2012_traviata/2012_traviata_13.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2012_traviata/2012_traviata_14.jpg" width="100%" >}}
 
 ### Equipe artistique
 

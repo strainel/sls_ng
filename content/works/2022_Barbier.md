@@ -1,12 +1,11 @@
 ---
 title: "2022 : Le Barbier de Séville"
-type: portfolio
 date: 2022-08-01T11:59:54+01:00
-caption: Gioachino Rossini
 image: images/portfolios/2022_barbier/2022_barbier_01.png
+author: Gioachino Rossini
 category: ["opera","rossini"]
 wikiLink: https://fr.wikipedia.org/wiki/Le_Barbier_de_S%C3%A9ville_(Rossini)
-submitDate: 9, 11 et 13 août 2022 à 21h30
+eventdate: 9, 11 et 13 août 2022 à 21h30
 source: Livret de Cesare Sterbini, d'après la comédie de Beaumarchais
 created: Création le 20 février 1816 au Teatro di Torre Argentina de Rome
 flyer: documents/flyer2022_noel.pdf

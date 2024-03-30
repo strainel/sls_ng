@@ -1,12 +1,11 @@
 ---
 title: "2017 : La Flûte enchantée"
-type: portfolio
 date: 2017-07-12T16:59:54+06:00
-caption: Wolfgang Amadeus Mozart
+author: Wolfgang Amadeus Mozart
 image: images/portfolios/2017_flute/2017_flute_01.jpg
 category: ["opera","mozart"]
 liveLink: 
-submitDate: 10, 12 et 14 août 2017 à 21h30
+eventdate: 10, 12 et 14 août 2017 à 21h30
 source: Opéra en deux actes de Wolfgang Amadeus Mozart, livret de Emanuel Schikaneder
 created: Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 ---

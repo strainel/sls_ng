@@ -22,8 +22,10 @@
           <h5><span data-aos="text-reveal" data-aos-once="true">{{ .Params.eventdate }}</span></h5>
           <h6>{{ .Params.source }}</h6>
           <h6>{{ .Params.created }}</h6>
+          {{ with .Params.wikiLink }}
           <h5>En savoir plus</h5>
-          <h6><a class="h6" href="{{.Params.wikiLink}}">Fiche wiki</a></h6>
+          <h6><a class="h6" href="{{ . }}">Fiche wiki</a> <img src="/images/link-external-small-ltr-progressive.svg" width=15px style="vertical-align:top" alt="lien externe"></h6>
+          {{ end }}
         </div>
       </div>
     </div>

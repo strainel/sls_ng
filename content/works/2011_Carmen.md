@@ -1,12 +1,11 @@
 ---
 title: "2011 : Carmen"
-type: portfolio
 date: 2011-08-01T16:59:54+06:00
-caption: Georges Bizet
+author: Georges Bizet
 image: images/portfolios/2011_carmen/2011_carmen_01.jpg
 category: ["opera","bizet"]
 wikiLink: https://fr.wikipedia.org/wiki/Carmen_(opéra)
-submitDate: 8, 10, 12 et 14 août 2011 à 21h30
+eventdate: 8, 10, 12 et 14 août 2011 à 21h30
 source: Livret d'Henri Meilhac et Ludovic Halévy d'après la nouvelle de Prosper Mérimée
 created: Création le 3 mars 1875 à l'Opéra Comique de Paris
 ---
@@ -21,8 +20,8 @@ Carmen n’est pas seulement un alignement d’airs tous plus connus les uns que
 
 &nbsp;
 
-{{< figure src="/images/portfolio/2011_carmen/2011_carmen_04.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2011_carmen/2011_carmen_07.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2011_carmen/2011_carmen_04.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2011_carmen/2011_carmen_07.jpg" width="100%" >}}
 
 ### Equipe artistique
 

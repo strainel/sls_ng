@@ -1,12 +1,11 @@
 ---
 title: "2021 : Carmen"
-type: portfolio
 date: 2021-03-14T11:59:54+01:00
-caption: Georges Bizet
+author: Georges Bizet
 image: images/portfolios/2021_carmen/2021_carmen_01.jpg
 category: ["opera","bizet"]
 wikiLink: https://fr.wikipedia.org/wiki/Carmen_(opéra)
-submitDate: 10, 12 et 14 août 2021 à 21h30
+eventdate: 10, 12 et 14 août 2021 à 21h30
 source: Livret d'Henri Meilhac et Ludovic Halévy d'après la nouvelle de Prosper Mérimée
 created: Création le 3 mars 1875 à l'Opéra Comique de Paris
 flyer: documents/flyer2021.pdf

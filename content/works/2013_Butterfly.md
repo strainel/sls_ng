@@ -1,12 +1,11 @@
 ---
 title: "2013 : Madame Butterfly"
-type: portfolio
 date: 2013-08-01T16:59:54+06:00
-caption: Giacomo Puccini
+author: Giacomo Puccini
 image: images/portfolios/2013_butterfly/2013_butterfly_01.jpg
 category: ["opera","puccini"]
 liveLink: 
-submitDate: 8, 10 et 12 août 2013 à 21h30
+eventdate: 8, 10 et 12 août 2013 à 21h30
 source: Livret de Luigi Illica et Giacomo Giacosa
 created: Création à la Scala de Milan le 17 février 1904
 ---
@@ -23,11 +22,11 @@ Imprégné de culture japonaise, d’une grande finesse musicale et d’une sens
 &nbsp;
 
 
-{{< figure src="/images/portfolio/2013_butterfly/2013_butterfly_02.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2013_butterfly/2013_butterfly_03.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2013_butterfly/2013_butterfly_04.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2013_butterfly/2013_butterfly_05.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2013_butterfly/2013_butterfly_06.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2013_butterfly/2013_butterfly_02.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2013_butterfly/2013_butterfly_03.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2013_butterfly/2013_butterfly_04.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2013_butterfly/2013_butterfly_05.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2013_butterfly/2013_butterfly_06.jpg" width="100%" >}}
 
 
 ### Equipe artistique

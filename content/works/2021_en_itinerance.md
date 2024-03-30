@@ -1,12 +1,11 @@
 ---
 title: "2021 : SLS en itinérance"
-type: portfolio
 date: 2021-03-14T11:59:54+01:00
 caption: 
 image: images/portfolios/2021_itinerance/2021_prog_iti.jpg
-category: []
+category: ["concerts"]
 wikiLink: 
-submitDate:
+eventdate: du 23 juillet au 15 août 2021
 source: 
 created:
 flyer: 

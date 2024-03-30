@@ -1,12 +1,11 @@
 ---
 title: "2016 : Rigoletto"
-type: portfolio
 date: 2016-07-12T16:59:54+01:00
-caption: Giuseppe Verdi
+author: Giuseppe Verdi
 image: images/portfolios/2016_rigoletto/2016_rigoletto_01.jpg
 category: ["opera","mozart"]
 wikiLink: https://fr.wikipedia.org/wiki/Rigoletto
-submitDate: 8, 10 et 12 août 2016 à 21h30
+eventdate: 8, 10 et 12 août 2016 à 21h30
 source: Opéra en trois actes de Giuseppe Verdi, livret de Francesco Maria Piave
 created: Création le 11 mars 1851 au théâtre de la Fenice à Venise
 ---
@@ -21,7 +20,7 @@ Reprenant l'argument de la pièce de Victor Hugo Le Roi s'amuse, Verdi signe ici
 
 &nbsp;
 
-{{< figure src="/images/portfolio/2016_rigoletto/2016_rigoletto_02.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2016_rigoletto/2016_rigoletto_02.jpg" width="100%" >}}
 
 ### Equipe artistique
 

@@ -79,6 +79,7 @@ call_to_action:
   content : "Vous souhaitez acheter une place ? 
     Adhérer au comité de soutien ? 
     Nous faire part de votre expérience ? 
+    Recevoir l'infolettre ? 
     Nous sommes à votre écoute."
   button:
     enable : true

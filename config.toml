@@ -49,7 +49,6 @@ weight = 6
 [params]
 logo = "images/logo_sls.png"
 home = "Accueil"
-# Meta data
 description = "Site de l'association des soirées lyriques de Sanxay"
 author = "Association des Soirées Lyriques de Sanxay"
 

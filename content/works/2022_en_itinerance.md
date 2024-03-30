@@ -1,12 +1,11 @@
 ---
 title: "2022 : concerts itinérants"
-type: portfolio
 date: 2022-07-31T11:59:54+01:00
 caption: 
 image: images/portfolios/2022_itinerance/2022_concerts_itinerants_prog.png
-category: []
+category: ["concerts"]
 wikiLink: 
-submitDate:
+eventdate: du 25 juillet au 12 août 2022
 source: 
 created:
 flyer: 

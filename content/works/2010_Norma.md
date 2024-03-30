@@ -1,12 +1,11 @@
 ---
 title: "2010 : Norma"
-type: portfolio
 date: 2010-08-01T16:59:54+06:00
-caption: Vincenzo Bellini
+author: Vincenzo Bellini
 image: images/portfolios/2010_norma/2010_norma_03.jpg
 category: ["opera","bellini"]
 wikiLink: https://fr.wikipedia.org/wiki/Norma_%28opéra%29
-submitDate: 10, 12 et 14 août 2010 à 21h30
+eventdate: 10, 12 et 14 août 2010 à 21h30
 source: Livret de Felice Romani
 created: Création le 26 décembre 1831 à la Scala de Milan
 ---
@@ -22,9 +21,9 @@ Au cœur du bel canto romantique, Norma est un sombre chef d’œuvre d’une gr
 
 &nbsp;
 
-{{< figure src="/images/portfolio/2010_norma/2010_norma_04.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2010_norma/2010_norma_05.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2010_norma/2010_norma_09.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2010_norma/2010_norma_04.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2010_norma/2010_norma_05.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2010_norma/2010_norma_09.jpg" width="100%" >}}
 
 
 ### Equipe artistique
