@@ -91,7 +91,7 @@ philosophy:
 soutien:
   enable : true
   subtitle : "Le comité de soutien"
-  title : "Votre voix compte !"
+  title : "Votre soutien aide le festival !"  
   image : "images/portfolios/2019_aida/2019_aida_soutien.png"
   image_legend : "Francis Mayet"
   content : "Vous aimez l'opéra sous les étoiles ? Vous voulez défendre la culture 
@@ -130,10 +130,10 @@ soutien:
 
 ############################### contrat république ###########################
 cer:
-  enable : false
+  enable : true
   subtitle : "Contrat d'engagement républicain"
-  title : "Votre soutien est essentiel !"
-  image : "images/philosophy-image.jpg"
+  title : "Respect des principes<br> de la République"
+  image : "images/cer.png"
   content : "Le contrat d’engagement républicain, entré en vigueur au 2 janvier 2022, 
   est un document par lequel les Soirées Lyriques de Sanxay s’engagent à respecter 
   les principes de la République.
