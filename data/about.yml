@@ -131,7 +131,7 @@ soutien:
 ############################### contrat république ###########################
 cer:
   enable : true
-  subtitle : "Contrat d'engagement républicain"
+  subtitle : "Contrat d'engagement<br> républicain"
   title : "Respect des principes<br> de la République"
   image : "images/cer.png"
   content : "Le contrat d’engagement républicain, entré en vigueur au 2 janvier 2022, 
