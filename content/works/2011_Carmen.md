@@ -1,5 +1,6 @@
 ---
 title: "2011 : Carmen"
+type: opera
 date: 2011-08-01T16:59:54+06:00
 author: Georges Bizet
 image: images/portfolios/2011_carmen/2011_carmen_01.jpg

@@ -1,5 +1,6 @@
 ---
 title: "2010 : Norma"
+type: opera
 date: 2010-08-01T16:59:54+06:00
 author: Vincenzo Bellini
 image: images/portfolios/2010_norma/2010_norma_03.jpg

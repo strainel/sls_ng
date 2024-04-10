@@ -1,5 +1,6 @@
 ---
 title: "2012 : La Traviata"
+type: opera
 date: 2012-08-01T16:59:54+06:00
 author: Giuseppe Verdi
 image: images/portfolios/2012_traviata/2012_traviata_01.jpg

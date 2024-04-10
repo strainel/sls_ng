@@ -1,5 +1,6 @@
 ---
 title: "2015 : Turandot"
+type: opera
 date: 2015-07-12T16:59:54+01:00
 author: Giacomo Puccini
 image: images/portfolios/2015_turandot/2015_turandot_21.jpg

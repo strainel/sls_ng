@@ -1,5 +1,6 @@
 ---
 title: "2014 : Nabucco"
+type: opera
 date: 2014-07-12T16:59:54+06:00
 author: Giuseppe Verdi
 image: images/portfolios/2014_nabucco/2014_nabucco_02.jpg

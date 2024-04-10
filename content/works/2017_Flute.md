@@ -1,5 +1,6 @@
 ---
 title: "2017 : La Flûte enchantée"
+type: opera
 date: 2017-07-12T16:59:54+06:00
 author: Wolfgang Amadeus Mozart
 image: images/portfolios/2017_flute/2017_flute_01.jpg

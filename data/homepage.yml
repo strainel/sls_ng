@@ -17,7 +17,7 @@ banner:
 
 ################### Service #################################
 service:
-  enable : false
+  enable : true
   bg_image : "images/shape-big.png"
   subtitle : "What We Do"
   title : "Design Is How<br>Things Work"
@@ -43,7 +43,7 @@ portfolio:
   enable : true
   subtitle : "Les productions"
   title : "Découvrir les <br>productions"
-  button : "Les autres productions"
+  button : "Toutes les productions"
   # portfolio item comes from `content/work/` folder
 
 

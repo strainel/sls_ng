@@ -1,6 +1,6 @@
 ---
 title: "2023 : Don Giovanni"
-type: works
+type: opera
 date: 2022-11-01T16:59:54+01:00
 author: Wolfgang Amadeus Mozart
 image: images/portfolios/2023_dongiovanni/dongiovanni_proto_affiche.png

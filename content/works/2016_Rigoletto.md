@@ -1,5 +1,6 @@
 ---
 title: "2016 : Rigoletto"
+type: opera
 date: 2016-07-12T16:59:54+01:00
 author: Giuseppe Verdi
 image: images/portfolios/2016_rigoletto/2016_rigoletto_01.jpg

@@ -1,6 +1,7 @@
 ---
 title: "2024 - La Bohème"
 date: 2023-11-29T15:38:38+06:00
+type: opera
 draft: false
 image: "images/portfolios/2024_boheme/affiche_boheme.jpg"
 author: "Giacomo Puccini"

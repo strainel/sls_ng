@@ -1,5 +1,6 @@
 ---
 title: "2021 : Carmen"
+type: opera
 date: 2021-03-14T11:59:54+01:00
 author: Georges Bizet
 image: images/portfolios/2021_carmen/2021_carmen_01.jpg

@@ -93,6 +93,7 @@
       {{ end }}
 
       {{ $work:= (where .Site.RegularPages "Section" "works") }}
+      {{ $work:= $work | intersect (where .Site.RegularPages "Params.type" "eq" "opera") }}
       {{ range first 6 $work }}
       <div class="col-md-6">
         <div class="portfolio-item text-center">

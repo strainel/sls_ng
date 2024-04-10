@@ -1,5 +1,6 @@
 ---
 title: "2013 : Madame Butterfly"
+type: opera
 date: 2013-08-01T16:59:54+06:00
 author: Giacomo Puccini
 image: images/portfolios/2013_butterfly/2013_butterfly_01.jpg

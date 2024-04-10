@@ -1,5 +1,6 @@
 ---
 title: "2022 : Le Barbier de Séville"
+type: opera
 date: 2022-08-01T11:59:54+01:00
 image: images/portfolios/2022_barbier/2022_barbier_01.png
 author: Gioachino Rossini
