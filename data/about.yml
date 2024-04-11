@@ -13,7 +13,7 @@ Depuis, chaque année, c'est une fourmillière de près de 250 bénévoles qui s
 ################################ Team ###########################
 team:
   enable : true
-  subtitle : "Le bureau est élu <br>chaque année par <br>le Conseil d’administration."
+  subtitle : "Le bureau est élu <br>chaque année par le <br>Conseil d’administration."
   title : "Le bureau"
   team_member:
     - name  : Dominique Hummel
