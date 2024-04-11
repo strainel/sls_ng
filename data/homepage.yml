@@ -17,7 +17,7 @@ banner:
 
 ################### Service #################################
 service:
-  enable : true
+  enable : false
   bg_image : "images/shape-big.png"
   subtitle : "What We Do"
   title : "Design Is How<br>Things Work"

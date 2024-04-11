@@ -1,5 +1,13 @@
 {{ define "main" }}
 
+<audio autoplay id="audioID" loop>
+    <source src="the-beat-of-nature-122841.mp3" type="audio/mp3">
+</audio>
+
+<script>
+   var test = document.getElementById('audioID').play();
+</script>
+
 {{ if .Site.Data.homepage.banner.enable }}
 {{ with .Site.Data.homepage.banner }}
 <section class="hero-area" data-parallax="scroll" data-image-src="{{ .bg_image | absURL }}" data-z-index="1"
