@@ -4,17 +4,17 @@ coming:
   title: Venir à Sanxay est très simple !
   subtitle: Les moyens de transport possibles
   description: Plusieurs solutions sont envisageables pour venir à Sanxay 
-      et profiter des Soirées Lyriques de Sanxay.
+      et profiter d'une soirée opéra sous les étoiles.'
   coming_item:
     - name : En voiture
-      content : Par l'autoroute A10 ! Si vous venez depuis Paris, ce sera la sortie 30.
+      content : Par l'autoroute A10. Si vous venez depuis Paris, ce sera la sortie 30.
           Si vous venez depuis Bordeaux, ce sera la sortie 31.
     - name : Par covoiturage
       content : Jetez un oeil sur les sites [blablacar](https://blablacar.fr) ou 
           [carpooling](https://www.europe-carpooling.com). Il y a régulièrement des offres pour
           se rendre à Sanxay.
     - name : Par train
-      content : Plusieurs gares aux environs de Sanxay. La gare de **Poitiers** est à 30 minutes 
+      content : Plusieurs gares sont proches de Sanxay. La gare de **Poitiers** est à 30 minutes 
           de Sanxay, celle de **Saint-Maixent-l'école** à 25 minutes, celle de **Lusignan** à 15 minutes.
     - name : Par navette-bus depuis Poitiers
       content : Une **navette spéciale au départ de la gare de Poitiers** est proposée 
