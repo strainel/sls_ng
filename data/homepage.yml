@@ -6,6 +6,7 @@ banner:
   content : "XXIVe édtion - La Bohème - 10, 12 et 14 août 2024<br>
              Un opéra en plein air cet été ? Découvrez la nouvelle
              production 2024 et réservez vos places dès aujourd'hui !"
+  scrolling: "Plus bas"
   button:
     enable : true
     label : "Découvrir"
