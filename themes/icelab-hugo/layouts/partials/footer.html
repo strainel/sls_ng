@@ -10,21 +10,23 @@
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="logo">
             <a href="{{ .Site.BaseURL }}">
               <img src="{{ .Site.Params.logo | absURL }}" alt="logo">
             </a>
           </div>
         </div>
-        <div class="col-lg-8">
+        <div class="col-lg-6">
           <div class="content">
             <nav class="footer-nav">
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a></li>
+              <ul class="list-unstyled">
+                <li><a href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a></li>
                 {{ range .Site.Menus.main }}
-                <li class="list-inline-item"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
                 {{ end }}
+                <li><a href="/legals/">Mentions légales</a></li>
+                <li></li>
               </ul>
             </nav>
             <p>{{ .Site.Params.footer_content | markdownify }}</p>
