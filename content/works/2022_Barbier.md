@@ -21,6 +21,13 @@ Figaro, joyeux et insolent barbier, entreprend d’aider le Comte Almaviva, un g
 Billets, déguisements et situations abracadabrantes seront de mises pour déjouer le triste dessein du Docteur. L’amour triomphera-t-il encore ? 
 
 
+&nbsp;
+
+{{< figure src="/images/portfolios/2022_barbier/2022_barbier_03.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2022_barbier/2022_barbier_04.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2022_barbier/2022_barbier_05.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2022_barbier/2022_barbier_06.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2022_barbier/2022_barbier_07.jpg" width="100%" >}}
 
 ### Equipe artistique
 

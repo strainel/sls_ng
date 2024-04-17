@@ -20,9 +20,9 @@ flyer: documents/flyer2021.pdf
 &nbsp;
 
 
-{{< figure src="/images/portfolio/2021_carmen/2021_carmen_02.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2021_carmen/2021_carmen_03.jpg" width="100%" >}}
-{{< figure src="/images/portfolio/2021_carmen/2021_carmen_04.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2021_carmen/2021_carmen_02.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2021_carmen/2021_carmen_03.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2021_carmen/2021_carmen_04.jpg" width="100%" >}}
 *Photos : Philippe Archambeau*
 
 
