@@ -36,14 +36,8 @@ team:
     - name  : Armand Devanneaux
       designation : Trésorier
 
-    - name  : --
-      designation : Trésorier adjointe
-
     - name  : Laëtitia Chaignault
       designation : Secrétaire
-
-    - name  : --
-      designation : Secrétaire adjointe
 
     # team member loop
     #- name : "Mehedi Titash"
