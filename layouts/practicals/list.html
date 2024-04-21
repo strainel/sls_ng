@@ -13,6 +13,11 @@
           <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
           <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>
         </div>
+
+        <div class="work-single-image">
+          <img class="img-fluid w-80" src="{{ .image | absURL }}">
+        </div>
+
       </div>
     </div>
     <div class="row justify-content-center">

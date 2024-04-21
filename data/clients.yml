@@ -49,8 +49,8 @@ partners_amis:
       link : https://www.futuroscope.com/fr/
     - logo : images/partners/credit-agricole.png
       link : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html
-    - logo : images/partners/orange.png
-      link : https://www.orange.com/fr/accueil
+#    - logo : images/partners/orange.png
+#      link : https://www.orange.com/fr/accueil
     - logo : images/partners/mutuelle_poitiers.png
       link : https://agence.assurance-mutuelle-poitiers.fr/
     - logo : images/partners/servistores.png

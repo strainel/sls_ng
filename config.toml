@@ -53,7 +53,7 @@ description = "Site de l'association des soirées lyriques de Sanxay"
 author = "Association des Soirées Lyriques de Sanxay"
 
 # footer content
-footer_content = "Venez vivre chaqe été, à Sanxay, une expérience inédite et inoubliable, en plein coeur de la Vienne où se mêle musique, voix et patrimoine."
+footer_content = "Venez vivre chaque été, à Sanxay, une expérience inédite et inoubliable, en plein coeur de la Vienne où se mêle musique, voix et patrimoine."
 
 # contact form action
 [params.form]

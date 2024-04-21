@@ -30,7 +30,7 @@ pricing:
   enable : true
   title: Les tarifs
   subtitle: À chacun sa place !
-  #image: images/about/pricing.jpg
+  image: images/about/pricing.png
   #description: "**Les préventes pour la production de l'édition 2023 seront possibles pour Noël, jusqu'au 31 décembre !**"
   description: "Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
                 les prix sont indiqués ci-dessous."
