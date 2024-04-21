@@ -21,7 +21,7 @@ banner:
 ################### Service #################################
 service:
   enable : true
-  bg_image : "images/shape-big.png"
+  bg_image : "images/shape-music.png"
   subtitle : "Nos objectifs"
   title : "Mêler patrimoine<br>et art lyrique"
   service_item:
