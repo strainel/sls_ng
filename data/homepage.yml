@@ -23,7 +23,7 @@ service:
   enable : true
   bg_image : "images/shape-big.png"
   subtitle : "Nos objectifs"
-  title : "Mêler art lyrique<br>et patrimoine"
+  title : "Mêler patrimoine<br>et art lyrique"
   service_item:
     # service item loop
     - name : "Démocratiser l'opéra"
