@@ -4,38 +4,42 @@ partners_vip:
   subtitle : "Merci"
   title : "Partenaires publics et<br> institutionnels"
   clients:
+    - logo : images/partners/prefet_region.jpg
+      link : https://www.culture.gouv.fr/Regions/DRAC-Nouvelle-Aquitaine
     - logo : images/partners/cmn.png
       link : https://www.monuments-nationaux.fr
     - logo : images/partners/region-nv-aquitaine.png
       link : https://www.nouvelle-aquitaine.fr
     - logo : images/partners/departement-vienne.png
       link : https://www.lavienne86.fr
-    - logo : images/partners/festival-deux-sevres.jpg
-      link : https://www.deux-sevres.fr/destination-deux-sevres/sortir/les-festivals-en-deux-sevres
-    - logo : images/partners/prefet_region.jpg
-      link : https://www.culture.gouv.fr/Regions/DRAC-Nouvelle-Aquitaine
-    - logo : images/partners/grandpoitiers.svg
+    - logo : images/partners/grand_poitiers.jpg
       link : https://www.grandpoitiers.fr
-    - logo : images/partners/caisse_depots.png
-      link : https://www.caissedesdepots.fr/modele-unique/nos-missions
+    - logo : images/partners/sanxay-histoire.png
+      link : 
     - logo : images/partners/chu_poitiers.png
       link : https://www.chu-poitiers.fr
+    - logo : images/partners/ch_henri_laborit.png
+      link : https://ch-laborit.fr
     - logo : images/partners/centre_hospitalier_niort.jpg
       link : https://www.ch-niort.fr
+    - logo : images/partners/caisse_depots.png
+      link : https://www.caissedesdepots.fr/modele-unique/nos-missions
     - logo : images/partners/boivre.png
       link : https://www.boivrelavallee.eu
+    - logo : images/partners/lusignan.png
+      link : https://lusignan.fr
     - logo : images/partners/melle.png
       link : https://melle.fr
-    - logo : images/partners/vivonne.jpg
-      link : https://www.vivonne.fr
-    - logo : images/partners/lusignan.png
-      link : 
-    - logo : images/partners/rouille.png
-      link : https://www.rouille.fr
     - logo : images/partners/menigoute.jpg
       link : https://ville-menigoute.fr
     - logo : images/partners/poitiers.png
       link : https://www.poitiers.fr
+    - logo : images/partners/rouille.png
+      link : https://www.rouille.fr
+    - logo : images/partners/vivonne.jpg
+      link : https://www.vivonne.fr
+    - logo : images/partners/festival-deux-sevres.jpg
+      link : https://www.deux-sevres.fr/destination-deux-sevres/sortir/les-festivals-en-deux-sevres
 
 ############################ AUTRES ################################
 partners_amis:
@@ -45,32 +49,44 @@ partners_amis:
   clients:
     - logo : images/partners/mhv.png
       link : https://www.mhv.fr
+    - logo : images/partners/duo_solutions.png
+      link : https://www.duo-solutions.fr
     - logo : images/partners/futuroscope.svg
       link : https://www.futuroscope.com/fr/
     - logo : images/partners/credit-agricole.png
       link : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html
-#    - logo : images/partners/orange.png
-#      link : https://www.orange.com/fr/accueil
-    - logo : images/partners/mutuelle_poitiers.png
-      link : https://agence.assurance-mutuelle-poitiers.fr/
-    - logo : images/partners/servistores.png
-      link : https://www.servistores.com
-    - logo : images/partners/intermarche.png
-      link : https://www.intermarche.com
-    - logo : images/partners/hotel_alteora.jpg
-      link : https://hotel-alteora-site-du-futuroscope.com
-    - logo : images/partners/territoria_mutuelle.png
-      link : https://www.territoria-mutuelle.fr 
-    - logo : images/partners/axa.png
-      link : 
-    - logo : images/partners/drouineau.jpg
-      link : https://www.drouineau1927.fr
+    - logo : images/partners/groupe_soregies.png
+      link : https://www.groupe-soregies.fr
     - logo : images/partners/fabrix.png
       link : https://fabrix.fr
+    - logo : images/partners/groupe_ima.png
+      link : https://www.ima.eu/fr/index.php
+    - logo : images/partners/technique_solaire.png
+      link : https://techniquesolaire.com
+    - logo : images/partners/hotel_alteora.jpg
+      link : https://hotel-alteora-site-du-futuroscope.com
+    - logo : images/partners/drouineau.jpg
+      link : https://www.drouineau1927.fr
     - logo : images/partners/groupama.jpg
       link :
+    - logo : images/partners/intermarche.png
+      link : https://www.intermarche.com
+    - logo : images/partners/mutuelle_poitiers.png
+      link : https://agence.assurance-mutuelle-poitiers.fr/
+    - logo : images/partners/republic_corner.png
+      link : https://republic-corner.fr
+# mane strati
+    - logo : images/partners/axa.png
+      link : 
+    - logo : images/partners/servistores.png
+      link : https://www.servistores.com
     - logo : images/partners/hertz.jpg
       link : 
+    - logo : images/partners/territoria_mutuelle.png
+      link : https://www.territoria-mutuelle.fr 
+# mnaque ACTY, SPP, AMbulance Melisune, Good Mood
+#    - logo : images/partners/orange.png
+#      link : https://www.orange.com/fr/accueil
 
 ############################ AUTRES ################################
 partners_off:
@@ -78,40 +94,64 @@ partners_off:
   subtitle : "Merci"
   title : "Partenaires officiels"
   clients:
-    - logo : images/partners/nuances_pianos.jpg
-      link : http://nuances-pianos.fr
-    - logo : images/partners/lubicom.png
-      link : http://www.lubicom.fr/
-    - logo : images/partners/saveurs_creations.png
-      link : http://www.saveursetcreations.fr
-    - logo : images/partners/citroen.png
-      link : https://www.citroen-civray.fr
-    - logo : images/partners/securit_dog_man.png
-      likn : https://www.securitdogman.com
-    - logo : images/partners/loc_4_event.png
-      link : http://www.loc4event.fr
-    - logo : images/partners/toilettes_co.gif
-      link : https://www.toilettesandco.com 
-    - logo : images/partners/melon_haut_poitou.png
-      link : https://melon-hautpoitou.fr
-    - logo : images/partners/goulibeur.png
-      link : https://www.goulibeur.com
+# manque alcor
     - logo : images/partners/aurik.png
       link : https://www.aurik.fr
-    - logo : images/partners/ecodesnations.png
-      link : https://www.espacedesnations.fr
-    - logo : images/partners/maison_clochard.png
-      link : 
+# manque btobeezz
+    - logo : images/partners/lubicom.png
+      link : http://www.lubicom.fr/
+# manque poitou boissons
+    - logo : images/partners/saveurs_creations.png
+      link : http://www.saveursetcreations.fr 
+    - logo : images/partners/securit_dog_man.png
+      likn : https://www.securitdogman.com
+# manque R... 
+    - logo : images/partners/clodejac.png
+      link : https://www.clodejac.com
+    - logo : images/partners/eaux_de_vienne.png
+      link : https://www.eauxdevienne.fr
     - logo : images/partners/sfere.png
       link : http://www.sferebureautique.com
-    - logo : images/partners/max_musique.png
+# manque vitalis
+#
+########################### AUTRES ################################
+partners_autres:
+  enable : true
+  subtitle : "Merci"
+  title : "Et sans oublier"
+  clients:
+# tous les autres... 
+    - logo : images/partners/bricopro.jpg
+      link : https://www.bricopro.fr
+    - logo : images/partners/chateau_perigny.jpg
+      link : https://www.chateau-perigny.com/fr/
+    - logo : images/partners/ecodesnations.png
+      link : https://www.espacedesnations.fr
+    - logo : images/partners/goulibeur.png
+      link : https://www.goulibeur.com
+    - logo : images/partners/questce_aencrage.png
       link : 
     - logo : images/partners/jubert.jpg
       link : http://www.jubert.fr
-    - logo : images/partners/clodejac.png
-      link : https://www.clodejac.com
+    - logo : images/partners/loc_4_event.png
+      link : http://www.loc4event.fr
+    - logo : images/partners/maison_clochard.png
+      link : 
+# manque maison de la peinture 
+    - logo : images/partners/melon_haut_poitou.png
+      link : https://melon-hautpoitou.fr
+    - logo : images/partners/nuances_pianos.jpg
+      link : http://nuances-pianos.fr
+    - logo : images/partners/toilettes_co.gif
+      link : https://www.toilettesandco.com
     - logo : images/partners/toyota_touzalin.jpg
       link : https://toyota-occasions-poitiers.espacevo.fr
+#    - logo : images/partners/lusagri.jpg
+#      link : 
+#    - logo : images/partners/citroen.png
+#      link : https://www.citroen-civray.fr
+#    - logo : images/partners/max_musique.png
+#      link : 
 
 ############################ AUTRES ################################
 partners_media:
