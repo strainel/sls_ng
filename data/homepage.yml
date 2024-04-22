@@ -23,7 +23,7 @@ service:
   enable : true
   bg_image : "images/shape-music.png"
   subtitle : "Nos objectifs"
-  title : "Mêler patrimoine<br>et art lyrique"
+  title : "Art lyrique<br>et patrimoine"
   service_item:
     # service item loop
     - name : "Démocratiser l'opéra"
@@ -61,7 +61,7 @@ service:
                  qui pouvait accueillir jusqu'à 6600 spectateurs. Vous pouvez visiter 
                  le site gallo-romain, les thermes et le temple, avec un tarif réduit sur 
                  présentation de votre billet d'opéra.<br>Contactez l'accueil du site 
-                 (05 49 53 61 48) ou visitez <a href='http://www.sanxay.fr' target='_blank'>
+                 (05 49 53 61 48) ou visitez <a href='https://www.site-galloromain-de-sanxay.fr' target='_blank'>
                  la page web du site gallo-romain de Sanxay</a> pour connaître les horaires
                  d'ouverture."
 
