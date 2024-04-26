@@ -9,7 +9,7 @@ wikiLink: https://fr.wikipedia.org/wiki/Don_Giovanni
 eventdate: 10, 12 et 14 août 2023 à 21h30
 source: Opéra en 2 actes de Wolfgang Amadeus Mozart, livret de Lorenzo da Ponte
 created: Création au théâtre des Etats de Prague le 29 octobre 1787
-flyer: documents/flyer2023.pdf
+flyer: /documents/flyer2023.pdf
 ---
 
 Créé en 1787 à Prague, Don Giovanni est un chef d’oeuvre dès les premières représentations. Mozart le compose dans les dernières années de sa vie (il meurt 4 ans plus tard en 1791). Don Giovanni est un dramma giocoso, c'est-à-dire un drame joyeux, qui mêle les genres : comique, pathétique, tragique, surnaturel...

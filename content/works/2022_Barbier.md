@@ -9,7 +9,7 @@ wikiLink: https://fr.wikipedia.org/wiki/Le_Barbier_de_S%C3%A9ville_(Rossini)
 eventdate: 9, 11 et 13 août 2022 à 21h30
 source: Livret de Cesare Sterbini, d'après la comédie de Beaumarchais
 created: Création le 20 février 1816 au Teatro di Torre Argentina de Rome
-flyer: documents/flyer2022_noel.pdf
+flyer: /documents/flyer2022_noel.pdf
 ---
 
 ### Une production pétillante dans une espagne du 18e revisitée !

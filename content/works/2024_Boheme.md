@@ -11,7 +11,7 @@ wikiLink: https://fr.wikipedia.org/wiki/La_Bohème
 eventdate: 10, 12 et 14 août 2024 à 21h30
 source: Opéra en 4 actes de Giacomo Puccini, livret de Giacosa et Illica
 created: Création au Teatro Regio de Turin le 1er février 1896
-#flyer: documents/flyer2023.pdf
+flyer: /documents/flyer2024.pdf
 ---
 
 Créé en 1896 à Turin, *La Bohème* est un des chefs d’oeuvre de l'opéra italien et 

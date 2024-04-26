@@ -9,7 +9,7 @@ wikiLink: https://fr.wikipedia.org/wiki/Carmen_(opéra)
 eventdate: 10, 12 et 14 août 2021 à 21h30
 source: Livret d'Henri Meilhac et Ludovic Halévy d'après la nouvelle de Prosper Mérimée
 created: Création le 3 mars 1875 à l'Opéra Comique de Paris
-flyer: documents/flyer2021.pdf
+flyer: /documents/flyer2021.pdf
 ---
 
 ### La passion andalouse de Bizet
