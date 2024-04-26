@@ -75,7 +75,7 @@ partners_amis:
       link : https://agence.assurance-mutuelle-poitiers.fr/
     - logo : images/partners/republic_corner.png
       link : https://republic-corner.fr
-# mane strati
+# manque strati
     - logo : images/partners/axa.png
       link : 
     - logo : images/partners/servistores.png
@@ -97,6 +97,8 @@ partners_off:
 # manque alcor
     - logo : images/partners/aurik.png
       link : https://www.aurik.fr
+    - logo : images/partners/btobeez.jpg
+      link : https://www.btobeez.com
 # manque btobeezz
     - logo : images/partners/lubicom.png
       link : http://www.lubicom.fr/
